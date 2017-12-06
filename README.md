@@ -1,5 +1,4 @@
-# hello-world
-Getting started
+
 
   When I first saw a computer I was chocked and suprised in how computer performs its tasks in short time. I stared liking more and more so I was so curiose to what was in there that make it smooth and haevy as well in terms of weight.
   
